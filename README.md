@@ -1,2 +1,2 @@
 # Exercise6 
-Eric Zhou og Ólafur
+Eric Zhou og Ólafur Þór
